@@ -1,0 +1,5 @@
+@layer {
+    body {
+        @apply flex justify-center items-center min-h-lvh
+    }
+}
