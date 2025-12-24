@@ -3,7 +3,7 @@
 A modern and responsive calculator application built with **React**, **TypeScript**, and **Tailwind CSS**, focusing on clean UI design, accurate arithmetic logic, and strong type safety.
 
 ## 🔗 Live Demo
-_(Add your deployed link here — Vercel, Netlify, or GitHub Pages)_
+[Calculator App Site](https://fr1nk5sh.github.io/Calculator_App/)
 
 ## 📸 Screenshot
 ![Calculator App Screenshot](./src/assets/calculator.png)
@@ -33,7 +33,7 @@ _(Add your deployed link here — Vercel, Netlify, or GitHub Pages)_
 To run this project locally:
 
 ```bash
-git clone https://github.com/Fr1nk5sh/calculator-app.git
+git clone https://github.com/Fr1nk5sh/Calculator_App.git
 cd calculator-app
 npm install
 npm run dev
